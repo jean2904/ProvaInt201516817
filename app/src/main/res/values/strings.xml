@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telefone</string>
+    <string name="dica_ligar">telefone</string>
+    <string name="txt_botao">Ligar</string>
+</resources>
